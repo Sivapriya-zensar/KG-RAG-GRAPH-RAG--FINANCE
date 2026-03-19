@@ -1,0 +1,7 @@
+flask>=3.0.0
+flask-cors>=4.0.0
+networkx>=3.3
+sentence-transformers>=2.7.0
+faiss-cpu>=1.8.0
+groq>=0.9.0
+numpy>=1.26.0
